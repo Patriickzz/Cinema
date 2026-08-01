@@ -1,4 +1,4 @@
-package main;
+package cinema;
 
 public class Main {
     
