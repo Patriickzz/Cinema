@@ -2,7 +2,7 @@ package cinema;
 
 public class Filme {
     
-    public String titulo;
+    private String titulo;
     private int duracao;
     
     public Filme(String titulo, int duracao) {
